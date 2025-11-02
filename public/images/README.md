@@ -1,9 +1,7 @@
 # Images for Top100 Africa Website
 
-Place your logo image file in this directory with the name `top100-africa-logo.png`
+The logo image is now placed in the public directory with the name `Top100 Africa Future leaders Logo .png`
 
-The HTML file is already configured to reference this image as:
-- Header logo: `/public/images/top100-africa-logo.png`
-- Footer logo: `/public/images/top100-africa-logo.png`
-
-Once you place your actual logo file here with this name, it will automatically be used on the website.
+The HTML file is configured to reference this image as:
+- Header logo: `/public/Top100 Africa Future leaders Logo .png`
+- Footer logo: `/public/Top100 Africa Future leaders Logo .png`
