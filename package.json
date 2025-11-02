@@ -1,0 +1,14 @@
+{
+  "name": "top100-coming-soon",
+  "version": "1.0.0",
+  "description": "Coming soon page for Top100 Africa Future Leaders",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Build completed'"
+  },
+  "keywords": ["landing-page", "coming-soon", "africa", "leadership"],
+  "author": "Top100 Africa",
+  "license": "MIT"
+}
